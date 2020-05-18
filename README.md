@@ -4,10 +4,11 @@
 
 
 
-Java API for programming the Tello Drone. 
+Java API for programming the Tello Drone based on the provided SDK from DJI.
 
-Under development. 
- 
+Lots of todo's here. Still very much under development.
+
+Thankyou to Gróf Attila for starting this work. 
 
 
 License
