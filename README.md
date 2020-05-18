@@ -1,4 +1,4 @@
-# DJI-Tello Java API
+# Tello Java API
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0d1fa49ccd61483dab3cf66438c6b76c)](https://app.codacy.com/app/radioku5e/dji-tello?utm_source=github.com&utm_medium=referral&utm_content=grofattila/dji-tello&utm_campaign=Badge_Grade_Dashboard)
 
