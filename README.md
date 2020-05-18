@@ -9,9 +9,9 @@ Lots of todo's here. Still very much under development.
 
 Thank you to Gróf Attila for starting this work. 
 
-##License
+## License
 
-MIT License
+### MIT License
 
-Copyright (c) 2018 Gróf Attila
-Copyright (c) 2020 Mario Martinez, Jr.
+- Copyright (c) 2018 Gróf Attila
+- Copyright (c) 2020 Mario Martinez, Jr.
